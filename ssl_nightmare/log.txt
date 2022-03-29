@@ -1,0 +1,7 @@
+== Info:   Trying 3.211.147.199:443...
+== Info: Connected to tls.maxwhite.hfctf.ca (3.211.147.199) port 443 (#0)
+== Info: ALPN, offering h2
+== Info: ALPN, offering http/1.1
+== Info: Cipher selection: DEFAULT@SECLEVEL=1
+== Info: error setting certificate verify locations:  CAfile: ca.pem CApath: /etc/ssl/certs
+== Info: Closing connection 0

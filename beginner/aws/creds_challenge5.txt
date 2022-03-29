@@ -1,0 +1,12 @@
+{
+    "Credentials": {
+        "AccessKeyId": "ASIATAAH6Q3WPI3XK7MZ",
+        "SecretAccessKey": "4lvqDQWzJbYqu1J90sCunS6FbpC1Pcp5D4NA9whl",
+        "SessionToken": "IQoJb3JpZ2luX2VjEDcaCXVzLWVhc3QtMSJIMEYCIQC0B/m24eyMckMTQQTzkMoBI6HortcKn+JEZtZEqS/aggIhANUS9sE3JVIbLqUKFeQ06twIP7SLy2OIeVKLvao/9WufKpsCCPD//////////wEQAhoMMjA2MTc1MTEwODkyIgybmFFtWNsylsxJ8O0q7wH5CW+NlpRQ8RI7kHPCdXjl2/JBCYnCFQIF2h6NOJGHwPKsNhsbnZp/3k6pxc0h9Jec1Gc6IifNZlQZ2vb9jaJtziUpZICFJ1YZ7V95+aH8S7uMdOR6aXInqsNNW2LxuDTNz05jihTFu1lQZrt199g7jyoseqlRjNUg6+s46Y72hzeoqXjE143+x2bmO9DpzRlIargkoiVbm5GhHD6ciZai0g8q75/cjfD3+i4+jOb8qSAwJOyhjE7sAp5JIYq7ZTTQeSSVrXRa39JAY1xFeBgAk21MGi15HAs0T9tHcTyRc5s2zrucXxBSSJ6aERJYjDD7juSMBjqcAfIUJjJ1PwCUIofTxO2k3xebmf8gmTcIN/nDAM2U5w/b8V9wYyrMvLGcdz4Xacn9U+uMCxamTF2kDaT0PALIHCgMHLi8TQDw7INB1Moxk4OXud3mS5JROn+07XqN3TH48LWsrBZ0bTc9xFvfnDebf+YNbGjLEfYyfmTvJtPNUFmLQODseZlhjul6/X7M87FTi44PjR4KItFlnfFtRQ==",
+        "Expiration": "2021-11-20T15:34:35+00:00"
+    },
+    "AssumedRoleUser": {
+        "AssumedRoleId": "AROATAAH6Q3WJ7BAS6B4J:hfctf",
+        "Arn": "arn:aws:sts::206175110892:assumed-role/hf-aws-beginner-challenge5-role/hfctf"
+    }
+}

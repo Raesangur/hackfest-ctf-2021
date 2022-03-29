@@ -1,0 +1,2889 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+0@.bss
+.idata
+.CRT
+.tls
+B/19
+B/31
+B/45
+B/57
+0B/70
+B/81
+B/92
+54P@
+=\a@
+[^_]
+$,0@
+$$@@
+qfp8
+50q5
+oowi
+rmvr
+wzh3
+9rpx
+iavo
+uukk
+You 
+foun
+d a 
+D$!flag
+D$%! <7
+D$)p0l9
+D$-a2xh
+D$15s75
+D$5yj9z
+D$95230
+D$=kbzk
+D$Awjs7
+D$Ez1g>
+$?@@
+$J@@
+$M@@
+D$$t
+[^_]
+[^_]
+$dB@
+[^_]
+$0B@
+[^_]
+5$0@
+[^_]
+54a@
+[^_]
+8MZt
+UWV1
+[^_]
+[^_]
+B' t
+%|a@
+%xa@
+libgcj-13.dll
+_Jv_RegisterClasses
+Reverse engineering #1 
+Password: 
+Wrong password! 
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+The result is too small to be represented (UNDERFLOW)
+Total loss of significance (TLOSS)
+Partial loss of significance (PLOSS)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetModuleHandleA
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__dllonexit
+__getmainargs
+__initenv
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_fmode
+_initterm
+_iob
+_lock
+_onexit
+_unlock
+calloc
+exit
+fgets
+fprintf
+free
+fwrite
+getchar
+malloc
+memcpy
+printf
+putchar
+puts
+signal
+strchr
+strcmp
+strlen
+strncmp
+abort
+vfprintf
+KERNEL32.dll
+msvcrt.dll
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/crtexe.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+char
+size_t
+unsigned int
+uintptr_t
+wchar_t
+short unsigned int
+long int
+long long int
+sizetype
+long unsigned int
+unsigned char
+_EXCEPTION_RECORD
+ExceptionCode
+ExceptionFlags
+ExceptionAddress
+NumberParameters
+ExceptionInformation
+	_CONTEXT
+ContextFlags
+FloatSave
+SegGs
+SegFs
+SegEs
+SegDs
+SegCs
+EFlags
+SegSs
+ExtendedRegisters
+WINBOOL
+BYTE
+WORD
+DWORD
+float
+LPBYTE
+signed char
+short int
+long long unsigned int
+LONG_PTR
+ULONG_PTR
+PVOID
+CHAR
+LONG
+LPSTR
+PLONG
+HANDLE
+ULONGLONG
+EXCEPTION_ROUTINE
+PEXCEPTION_ROUTINE
+_FLOATING_SAVE_AREA
+ControlWord
+StatusWord
+TagWord
+ErrorOffset
+ErrorSelector
+DataOffset
+DataSelector
+RegisterArea
+Cr0NpxState
+FLOATING_SAVE_AREA
+CONTEXT
+PCONTEXT
+EXCEPTION_RECORD
+PEXCEPTION_RECORD
+_EXCEPTION_POINTERS
+ContextRecord
+Next
+prev
+_EXCEPTION_REGISTRATION_RECORD
+Handler
+handler
+FiberData
+Version
+_NT_TIB
+ExceptionList
+StackBase
+StackLimit
+SubSystemTib
+ArbitraryUserPointer
+Self
+NT_TIB
+PNT_TIB
+_IMAGE_DOS_HEADER
+e_magic
+e_cblp
+e_cp
+e_crlc
+e_cparhdr
+e_minalloc
+e_maxalloc
+e_ss
+e_sp
+e_csum
+e_ip
+e_cs
+e_lfarlc
+e_ovno
+e_res
+e_oemid
+e_oeminfo
+e_res2
+e_lfanew
+IMAGE_DOS_HEADER
+PIMAGE_DOS_HEADER
+_IMAGE_FILE_HEADER
+Machine
+NumberOfSections
+TimeDateStamp
+PointerToSymbolTable
+NumberOfSymbols
+SizeOfOptionalHeader
+Characteristics
+IMAGE_FILE_HEADER
+_IMAGE_DATA_DIRECTORY
+VirtualAddress
+Size
+IMAGE_DATA_DIRECTORY
+_IMAGE_OPTIONAL_HEADER
+Magic
+BaseOfData
+IMAGE_OPTIONAL_HEADER32
+PIMAGE_OPTIONAL_HEADER32
+_IMAGE_OPTIONAL_HEADER64
+Magic
+PIMAGE_OPTIONAL_HEADER64
+_IMAGE_NT_HEADERS
+Signature
+FileHeader
+OptionalHeader
+PIMAGE_NT_HEADERS32
+PIMAGE_NT_HEADERS
+PIMAGE_TLS_CALLBACK
+HINSTANCE__
+unused
+HINSTANCE
+PTOP_LEVEL_EXCEPTION_FILTER
+LPTOP_LEVEL_EXCEPTION_FILTER
+_STARTUPINFOA
+lpReserved
+lpDesktop
+lpTitle
+dwXSize
+dwYSize
+dwXCountChars
+dwYCountChars
+dwFillAttribute
+dwFlags
+wShowWindow
+cbReserved2
+lpReserved2
+hStdInput
+hStdOutput
+hStdError
+STARTUPINFOA
+STARTUPINFO
+double
+long double
+_invalid_parameter_handler
+tagCOINITBASE
+COINITBASE_MULTITHREADED
+VARENUM
+VT_EMPTY
+VT_NULL
+VT_I2
+VT_I4
+VT_R4
+VT_R8
+VT_CY
+VT_DATE
+VT_BSTR
+VT_DISPATCH
+VT_ERROR
+VT_BOOL
+VT_VARIANT
+VT_UNKNOWN
+VT_DECIMAL
+VT_I1
+VT_UI1
+VT_UI2
+VT_UI4
+VT_I8
+VT_UI8
+VT_INT
+VT_UINT
+VT_VOID
+VT_HRESULT
+VT_PTR
+VT_SAFEARRAY
+VT_CARRAY
+VT_USERDEFINED
+VT_LPSTR
+VT_LPWSTR
+VT_RECORD
+VT_INT_PTR
+VT_UINT_PTR
+VT_FILETIME
+VT_BLOB
+VT_STREAM
+VT_STORAGE
+VT_STREAMED_OBJECT
+VT_STORED_OBJECT
+VT_BLOB_OBJECT
+VT_CF
+VT_CLSID
+VT_VERSIONED_STREAM
+VT_BSTR_BLOB
+VT_VECTOR
+VT_ARRAY
+VT_BYREF
+VT_RESERVED
+VT_ILLEGAL
+VT_ILLEGALMASKED
+VT_TYPEMASK
+_PVFV
+_PIFV
+newmode
+_startupinfo
+__uninitialized
+__initializing
+__initialized
+_exception
+type
+name
+arg1
+arg2
+retval
+_TCHAR
+ __readfsdword
+!Offset
+"ret
+ _InterlockedExchange
+!Target
+!Value
+ _InterlockedCompareExchange
+!ExChange
+%_TEB
+&NtCurrentTeb
+'InterlockedCompareExchange
+)Exchange
+'InterlockedExchange
+)Target
+)Value
+*duplicate_ppstrings
+"avl
+,__mingw_invalidParameterHandler
+-expression
+-function
+-file
+-line
+-pReserved
+.check_managed_app
+"pDOSHeader
+"pPEHeader
+"pNTHeader32
+"pNTHeader64
+/pre_c_init
+,pre_cpp_init
+/__tmainCRTStartup
+9lpszCommandLine
+:StartupInfo
+9inDoubleQuote
+9lock_free
+9fiberid
+9nested
+GWinMainCRTStartup
+Hret
+GmainCRTStartup
+Hret
+:argc
+:argv
+:envp
+:argret
+:mainret
+:managedapp
+:has_cctor
+:startinfo
+J__globallocalestatus
+J_imp___fmode
+J_dowildcard
+J_newmode
+J_imp____initenv
+J_imp___acmdln
+J__native_startup_state
+J__native_startup_lock
+KJ_image_base__
+J_imp___commode
+J_fmode
+J__xi_a
+J__xi_z
+J__xc_a
+J__xc_z
+J__dyn_tls_init_callback
+J__onexitbegin
+J__onexitend
+Jmingw_app_type
+M__mingw_winmain_hInstance
+M__mingw_winmain_lpCmdLine
+M__mingw_winmain_nShowCmd
+J__mingw_oldexcpt_handler
+Mmingw_pcinit
+Mmingw_pcppinit
+J_MINGW_INSTALL_DEBUG_MATHERR
+Nmingw_initltsdrot_force
+Nmingw_initltsdyn_force
+Nmingw_initltssuo_force
+Nmingw_initcharmax
+O__set_app_type
+P_encode_pointer
+Q_setargv
+O__mingw_setusermatherr
+P__getmainargs
+Pstrlen
+Rmalloc
+Smemcpy
+T_pei386_runtime_relocator
+\P_set_invalid_parameter_handler
+T_fpreset
+)T__main
+LPmain
+T_cexit
+7O_amsg_exit
+O_initterm
+Uexit
+T__security_init_cookie
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/tlssup.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+char
+unsigned int
+uintptr_t
+short unsigned int
+long int
+long long int
+sizetype
+long unsigned int
+unsigned char
+ULONG
+WINBOOL
+BOOL
+DWORD
+float
+LPVOID
+signed char
+short int
+long long unsigned int
+ULONG_PTR
+PVOID
+HANDLE
+PIMAGE_TLS_CALLBACK
+	_IMAGE_TLS_DIRECTORY32
+StartAddressOfRawData
+EndAddressOfRawData
+AddressOfIndex
+AddressOfCallBacks
+SizeOfZeroFill
+Characteristics
+IMAGE_TLS_DIRECTORY32
+IMAGE_TLS_DIRECTORY
+_PVFV
+__dyn_tls_init
+pfunc
+__dyn_tls_dtor
+__dyn_tls_init@12
+__tlregdtor
+func
+__xd_a
+__xd_z
+_tls_index
+_tls_start
+_tls_end
+__xl_a
+__xl_z
+_tls_used
+_CRT_MT
+__dyn_tls_init_callback
+__xl_c
+__xl_d
+mingw_initltsdrot_force
+mingw_initltsdyn_force
+mingw_initltssuo_force
+ __mingw_TLScallback
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/charmax.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+char
+unsigned int
+short unsigned int
+long int
+long long int
+sizetype
+long unsigned int
+unsigned char
+float
+signed char
+short int
+long long unsigned int
+double
+long double
+tagCOINITBASE
+COINITBASE_MULTITHREADED
+VARENUM
+VT_EMPTY
+VT_NULL
+VT_I2
+VT_I4
+VT_R4
+VT_R8
+VT_CY
+VT_DATE
+VT_BSTR
+VT_DISPATCH
+VT_ERROR
+VT_BOOL
+VT_VARIANT
+VT_UNKNOWN
+VT_DECIMAL
+VT_I1
+VT_UI1
+VT_UI2
+VT_UI4
+VT_I8
+VT_UI8
+VT_INT
+VT_UINT
+VT_VOID
+VT_HRESULT
+VT_PTR
+VT_SAFEARRAY
+VT_CARRAY
+VT_USERDEFINED
+VT_LPSTR
+VT_LPWSTR
+VT_RECORD
+VT_INT_PTR
+VT_UINT_PTR
+VT_FILETIME
+VT_BLOB
+VT_STREAM
+VT_STORAGE
+VT_STREAMED_OBJECT
+VT_STORED_OBJECT
+VT_BLOB_OBJECT
+VT_CF
+VT_CLSID
+VT_VERSIONED_STREAM
+VT_BSTR_BLOB
+VT_VECTOR
+VT_ARRAY
+VT_BYREF
+VT_RESERVED
+VT_ILLEGAL
+VT_ILLEGALMASKED
+VT_TYPEMASK
+_PIFV
+	my_lconv_init
+mingw_initcharmax
+_charmax
+__mingw_pinit
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/mingw_helpers.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+char
+unsigned int
+short unsigned int
+long int
+long long int
+sizetype
+long unsigned int
+unsigned char
+float
+signed char
+short int
+long long unsigned int
+double
+long double
+tagCOINITBASE
+COINITBASE_MULTITHREADED
+VARENUM
+VT_EMPTY
+VT_NULL
+VT_I2
+VT_I4
+VT_R4
+VT_R8
+VT_CY
+VT_DATE
+VT_BSTR
+VT_DISPATCH
+VT_ERROR
+VT_BOOL
+VT_VARIANT
+VT_UNKNOWN
+VT_DECIMAL
+VT_I1
+VT_UI1
+VT_UI2
+VT_UI4
+VT_I8
+VT_UI8
+VT_INT
+VT_UINT
+VT_VOID
+VT_HRESULT
+VT_PTR
+VT_SAFEARRAY
+VT_CARRAY
+VT_USERDEFINED
+VT_LPSTR
+VT_LPWSTR
+VT_RECORD
+VT_INT_PTR
+VT_UINT_PTR
+VT_FILETIME
+VT_BLOB
+VT_STREAM
+VT_STORAGE
+VT_STREAMED_OBJECT
+VT_STORED_OBJECT
+VT_BLOB_OBJECT
+VT_CF
+VT_CLSID
+VT_VERSIONED_STREAM
+VT_BSTR_BLOB
+VT_VECTOR
+VT_ARRAY
+VT_BYREF
+VT_RESERVED
+VT_ILLEGAL
+VT_ILLEGALMASKED
+VT_TYPEMASK
+_decode_pointer
+codedptr
+_encode_pointer
+	mingw_app_type
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/xtxtmode.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+_fmode
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/atonexit.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+char
+unsigned int
+short unsigned int
+long int
+long long int
+sizetype
+long unsigned int
+unsigned char
+float
+signed char
+short int
+long long unsigned int
+_onexit_t
+double
+long double
+tagCOINITBASE
+	COINITBASE_MULTITHREADED
+VARENUM
+	VT_EMPTY
+	VT_NULL
+	VT_I2
+	VT_I4
+	VT_R4
+	VT_R8
+	VT_CY
+	VT_DATE
+	VT_BSTR
+	VT_DISPATCH
+		VT_ERROR
+	VT_BOOL
+	VT_VARIANT
+	VT_UNKNOWN
+	VT_DECIMAL
+	VT_I1
+	VT_UI1
+	VT_UI2
+	VT_UI4
+	VT_I8
+	VT_UI8
+	VT_INT
+	VT_UINT
+	VT_VOID
+	VT_HRESULT
+	VT_PTR
+	VT_SAFEARRAY
+	VT_CARRAY
+	VT_USERDEFINED
+	VT_LPSTR
+	VT_LPWSTR
+	VT_RECORD
+$	VT_INT_PTR
+%	VT_UINT_PTR
+&	VT_FILETIME
+	VT_BLOB
+	VT_STREAM
+	VT_STORAGE
+	VT_STREAMED_OBJECT
+	VT_STORED_OBJECT
+	VT_BLOB_OBJECT
+	VT_CF
+	VT_CLSID
+	VT_VERSIONED_STREAM
+	VT_BSTR_BLOB
+	VT_VECTOR
+ 	VT_ARRAY
+	VT_BYREF
+	VT_RESERVED
+	VT_ILLEGAL
+	VT_ILLEGALMASKED
+	VT_TYPEMASK
+_PVFV
+mingw_onexit
+func
+onexitbegin
+onexitend
+retval
+atexit
+func
+__onexitbegin
+__onexitend
+_imp___onexit
+_decode_pointer
+_lock
+__dllonexit
+_encode_pointer
+_unlock
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/_newmode.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+_newmode
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/wildcard.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+_dowildcard
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/natstart.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+char
+unsigned int
+short unsigned int
+long int
+long long int
+sizetype
+long unsigned int
+unsigned char
+float
+signed char
+short int
+long long unsigned int
+double
+long double
+tagCOINITBASE
+COINITBASE_MULTITHREADED
+VARENUM
+VT_EMPTY
+VT_NULL
+VT_I2
+VT_I4
+VT_R4
+VT_R8
+VT_CY
+VT_DATE
+VT_BSTR
+VT_DISPATCH
+VT_ERROR
+VT_BOOL
+VT_VARIANT
+VT_UNKNOWN
+VT_DECIMAL
+VT_I1
+VT_UI1
+VT_UI2
+VT_UI4
+VT_I8
+VT_UI8
+VT_INT
+VT_UINT
+VT_VOID
+VT_HRESULT
+VT_PTR
+VT_SAFEARRAY
+VT_CARRAY
+VT_USERDEFINED
+VT_LPSTR
+VT_LPWSTR
+VT_RECORD
+VT_INT_PTR
+VT_UINT_PTR
+VT_FILETIME
+VT_BLOB
+VT_STREAM
+VT_STORAGE
+VT_STREAMED_OBJECT
+VT_STORED_OBJECT
+VT_BLOB_OBJECT
+VT_CF
+VT_CLSID
+VT_VERSIONED_STREAM
+VT_BSTR_BLOB
+VT_VECTOR
+VT_ARRAY
+VT_BYREF
+VT_RESERVED
+VT_ILLEGAL
+VT_ILLEGALMASKED
+VT_TYPEMASK
+__uninitialized
+__initializing
+__initialized
+__native_startup_state
+__native_startup_lock
+__native_dllmain_reason
+__native_vcclrit_reason
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/crt_handler.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+char
+unsigned int
+short unsigned int
+long int
+long long int
+sizetype
+long unsigned int
+unsigned char
+_EXCEPTION_RECORD
+ExceptionCode
+ExceptionFlags
+ExceptionAddress
+NumberParameters
+ExceptionInformation
+_CONTEXT
+ContextFlags
+FloatSave
+SegGs
+SegFs
+SegEs
+SegDs
+SegCs
+EFlags
+SegSs
+ExtendedRegisters
+	BYTE
+	DWORD
+float
+signed char
+short int
+long long unsigned int
+	ULONG_PTR
+	PVOID
+LONG
+_FLOATING_SAVE_AREA
+ControlWord
+StatusWord
+TagWord
+ErrorOffset
+ErrorSelector
+DataOffset
+DataSelector
+RegisterArea
+Cr0NpxState
+FLOATING_SAVE_AREA
+CONTEXT
+PCONTEXT
+EXCEPTION_RECORD
+PEXCEPTION_RECORD
+_EXCEPTION_POINTERS
+ContextRecord
+EXCEPTION_POINTERS
+	PTOP_LEVEL_EXCEPTION_FILTER
+	LPTOP_LEVEL_EXCEPTION_FILTER
+double
+long double
+tagCOINITBASE
+COINITBASE_MULTITHREADED
+VARENUM
+VT_EMPTY
+VT_NULL
+VT_I2
+VT_I4
+VT_R4
+VT_R8
+VT_CY
+VT_DATE
+VT_BSTR
+VT_DISPATCH
+VT_ERROR
+VT_BOOL
+VT_VARIANT
+VT_UNKNOWN
+VT_DECIMAL
+VT_I1
+VT_UI1
+VT_UI2
+VT_UI4
+VT_I8
+VT_UI8
+VT_INT
+VT_UINT
+VT_VOID
+VT_HRESULT
+VT_PTR
+VT_SAFEARRAY
+VT_CARRAY
+VT_USERDEFINED
+VT_LPSTR
+VT_LPWSTR
+VT_RECORD
+VT_INT_PTR
+VT_UINT_PTR
+VT_FILETIME
+VT_BLOB
+VT_STREAM
+VT_STORAGE
+VT_STREAMED_OBJECT
+VT_STORED_OBJECT
+VT_BLOB_OBJECT
+VT_CF
+VT_CLSID
+VT_VERSIONED_STREAM
+VT_BSTR_BLOB
+VT_VECTOR
+VT_ARRAY
+VT_BYREF
+VT_RESERVED
+VT_ILLEGAL
+VT_ILLEGALMASKED
+VT_TYPEMASK
+	__p_sig_fn_t
+_gnu_exception_handler
+_gnu_exception_handler@4
+exception_data
+old_handler
+action
+reset_fpu
+__mingw_oldexcpt_handler
+signal
+_fpreset
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/cinitexe.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+char
+unsigned int
+short unsigned int
+long int
+long long int
+sizetype
+long unsigned int
+unsigned char
+_PVFV
+__xi_a
+__xi_z
+__xc_a
+__xc_z
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/dllargv.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+char
+unsigned int
+short unsigned int
+long int
+long long int
+sizetype
+long unsigned int
+unsigned char
+float
+signed char
+short int
+long long unsigned int
+double
+long double
+_setargv
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/merr.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+char
+unsigned int
+short unsigned int
+long int
+long long int
+sizetype
+long unsigned int
+unsigned char
+float
+signed char
+short int
+long long unsigned int
+double
+long double
+tagCOINITBASE
+COINITBASE_MULTITHREADED
+VARENUM
+VT_EMPTY
+VT_NULL
+VT_I2
+VT_I4
+VT_R4
+VT_R8
+VT_CY
+VT_DATE
+VT_BSTR
+VT_DISPATCH
+VT_ERROR
+VT_BOOL
+VT_VARIANT
+VT_UNKNOWN
+VT_DECIMAL
+VT_I1
+VT_UI1
+VT_UI2
+VT_UI4
+VT_I8
+VT_UI8
+VT_INT
+VT_UINT
+VT_VOID
+VT_HRESULT
+VT_PTR
+VT_SAFEARRAY
+VT_CARRAY
+VT_USERDEFINED
+VT_LPSTR
+VT_LPWSTR
+VT_RECORD
+VT_INT_PTR
+VT_UINT_PTR
+VT_FILETIME
+VT_BLOB
+VT_STREAM
+VT_STORAGE
+VT_STREAMED_OBJECT
+VT_STORED_OBJECT
+VT_BLOB_OBJECT
+VT_CF
+VT_CLSID
+VT_VERSIONED_STREAM
+VT_BSTR_BLOB
+VT_VECTOR
+VT_ARRAY
+VT_BYREF
+VT_RESERVED
+VT_ILLEGAL
+VT_ILLEGALMASKED
+VT_TYPEMASK
+_iobuf
+_ptr
+_cnt
+_base
+_flag
+_file
+_charbuf
+_bufsiz
+_tmpfname
+	FILE
+_exception
+type
+name
+arg1
+arg2
+retval
+	fUserMathErr
+__mingw_raise_matherr
+name
+rslt
+__mingw_setusermatherr
+_matherr
+pexcept
+type
+stUserMathErr
+_imp___iob
+__setusermatherr
+fprintf
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/pseudo-reloc.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+__gnuc_va_list
+__builtin_va_list
+char
+va_list
+size_t
+unsigned int
+ptrdiff_t
+short unsigned int
+long int
+long long int
+sizetype
+long unsigned int
+unsigned char
+BYTE
+WORD
+DWORD
+float
+PBYTE
+LPBYTE
+LPVOID
+signed char
+short int
+long long unsigned int
+ULONG_PTR
+SIZE_T
+PVOID
+	_MEMORY_BASIC_INFORMATION
+BaseAddress
+AllocationBase
+AllocationProtect
+RegionSize
+State
+Protect
+Type
+MEMORY_BASIC_INFORMATION
+PhysicalAddress
+VirtualSize
+	_IMAGE_SECTION_HEADER
+Name
+Misc
+VirtualAddress
+SizeOfRawData
+PointerToRawData
+PointerToRelocations
+PointerToLinenumbers
+NumberOfRelocations
+NumberOfLinenumbers
+Characteristics
+PIMAGE_SECTION_HEADER
+double
+long double
+tagCOINITBASE
+COINITBASE_MULTITHREADED
+VARENUM
+VT_EMPTY
+VT_NULL
+VT_I2
+VT_I4
+VT_R4
+VT_R8
+VT_CY
+VT_DATE
+VT_BSTR
+VT_DISPATCH
+VT_ERROR
+VT_BOOL
+VT_VARIANT
+VT_UNKNOWN
+VT_DECIMAL
+VT_I1
+VT_UI1
+VT_UI2
+VT_UI4
+VT_I8
+VT_UI8
+VT_INT
+VT_UINT
+VT_VOID
+VT_HRESULT
+VT_PTR
+VT_SAFEARRAY
+VT_CARRAY
+VT_USERDEFINED
+VT_LPSTR
+VT_LPWSTR
+VT_RECORD
+VT_INT_PTR
+VT_UINT_PTR
+VT_FILETIME
+VT_BLOB
+VT_STREAM
+VT_STORAGE
+VT_STREAMED_OBJECT
+VT_STORED_OBJECT
+VT_BLOB_OBJECT
+VT_CF
+VT_CLSID
+VT_VERSIONED_STREAM
+VT_BSTR_BLOB
+VT_VECTOR
+VT_ARRAY
+VT_BYREF
+VT_RESERVED
+VT_ILLEGAL
+VT_ILLEGALMASKED
+VT_TYPEMASK
+_iobuf
+_ptr
+_cnt
+_base
+_flag
+_file
+_charbuf
+_bufsiz
+_tmpfname
+FILE
+addend
+target
+runtime_pseudo_reloc_item_v1
+target
+flags
+runtime_pseudo_reloc_item_v2
+magic1
+magic2
+version
+runtime_pseudo_reloc_v2
+old_protect
+sec_start
+hash
+__write_memory
+addr
+oldprot
+call_unprotect
+do_pseudo_reloc
+start
+base
+addr_imp
+reldata
+reloc_target
+v2_hdr
+newval
+__report_error
+argp
+#mark_section_writable
+$addr
+#restore_modified_sections
+%oldprot
+/_pei386_runtime_relocator
+0was_init
+1mSecs
+.M @
+the_secs
+maxSections
+8_imp___iob
+8__RUNTIME_PSEUDO_RELOC_LIST__
+8__RUNTIME_PSEUDO_RELOC_LIST_END__
+8_image_base__
+9__builtin_fwrite
+fwrite
+;vfprintf
+<abort
+=__mingw_GetSectionForAddress
+>_GetPEImageBase
+?memcpy
+>__mingw_GetSectionCount
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/CRT_fp10.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+_fpreset
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/gccmain.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+char
+unsigned int
+ptrdiff_t
+short unsigned int
+long int
+long long int
+sizetype
+long unsigned int
+unsigned char
+float
+signed char
+short int
+long long unsigned int
+double
+long double
+tagCOINITBASE
+COINITBASE_MULTITHREADED
+VARENUM
+VT_EMPTY
+VT_NULL
+VT_I2
+VT_I4
+VT_R4
+VT_R8
+VT_CY
+VT_DATE
+VT_BSTR
+VT_DISPATCH
+VT_ERROR
+VT_BOOL
+VT_VARIANT
+VT_UNKNOWN
+VT_DECIMAL
+VT_I1
+VT_UI1
+VT_UI2
+VT_UI4
+VT_I8
+VT_UI8
+VT_INT
+VT_UINT
+VT_VOID
+VT_HRESULT
+VT_PTR
+VT_SAFEARRAY
+VT_CARRAY
+VT_USERDEFINED
+VT_LPSTR
+VT_LPWSTR
+VT_RECORD
+VT_INT_PTR
+VT_UINT_PTR
+VT_FILETIME
+VT_BLOB
+VT_STREAM
+VT_STORAGE
+VT_STREAMED_OBJECT
+VT_STORED_OBJECT
+VT_BLOB_OBJECT
+VT_CF
+VT_CLSID
+VT_VERSIONED_STREAM
+VT_BSTR_BLOB
+VT_VECTOR
+VT_ARRAY
+VT_BYREF
+VT_RESERVED
+VT_ILLEGAL
+VT_ILLEGALMASKED
+VT_TYPEMASK
+	func_ptr
+__do_global_dtors
+__do_global_ctors
+ 0!@
+nptrs
+__main
+initialized
+__CTOR_LIST__
+__DTOR_LIST__
+atexit
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/gs_support.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+char
+unsigned int
+short unsigned int
+long int
+long long int
+sizetype
+long unsigned int
+unsigned char
+double
+float
+long double
+_EXCEPTION_RECORD
+ExceptionCode
+ExceptionFlags
+ExceptionAddress
+NumberParameters
+ExceptionInformation
+_CONTEXT
+ContextFlags
+FloatSave
+SegGs
+SegFs
+SegEs
+SegDs
+SegCs
+EFlags
+SegSs
+ExtendedRegisters
+	BYTE
+	DWORD
+signed char
+short int
+long long unsigned int
+	UINT_PTR
+	ULONG_PTR
+	PVOID
+LONG
+LONGLONG
+LowPart
+LowPart
+_LARGE_INTEGER
+QuadPart
+LARGE_INTEGER
+_FLOATING_SAVE_AREA
+ControlWord
+StatusWord
+TagWord
+ErrorOffset
+ErrorSelector
+DataOffset
+DataSelector
+RegisterArea
+Cr0NpxState
+FLOATING_SAVE_AREA
+CONTEXT
+PCONTEXT
+EXCEPTION_RECORD
+PEXCEPTION_RECORD
+_EXCEPTION_POINTERS
+ContextRecord
+EXCEPTION_POINTERS
+_FILETIME
+dwLowDateTime
+dwHighDateTime
+	FILETIME
+	NTSTATUS
+ft_scalar
+ft_struct
+__security_init_cookie
+cookie
+systime
+perfctr
+__report_gsfailure
+gP"@
+StackCookie
+cookie
+GS_ExceptionRecord
+GS_ContextRecord
+GS_ExceptionPointers
+ __security_cookie
+ __security_cookie_complement
+!abort
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/tlsmcrt.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+_CRT_MT
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/tlsthrd.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+char
+size_t
+unsigned int
+short unsigned int
+long int
+long long int
+sizetype
+long unsigned int
+unsigned char
+WINBOOL
+WORD
+DWORD
+float
+LPVOID
+signed char
+short int
+long long unsigned int
+ULONG_PTR
+LONG
+HANDLE
+_LIST_ENTRY
+Flink
+Blink
+LIST_ENTRY
+_RTL_CRITICAL_SECTION_DEBUG
+Type
+CreatorBackTraceIndex
+CriticalSection
+ProcessLocksList
+EntryCount
+ContentionCount
+Flags
+CreatorBackTraceIndexHigh
+SpareWORD
+_RTL_CRITICAL_SECTION
+DebugInfo
+LockCount
+RecursionCount
+OwningThread
+LockSemaphore
+SpinCount
+PRTL_CRITICAL_SECTION_DEBUG
+RTL_CRITICAL_SECTION
+CRITICAL_SECTION
+double
+long double
+__mingwthr_key_t
+	__mingwthr_key
+dtor
+next
+__mingwthr_run_key_dtors
+keyp
+value
+___w64_mingwthr_add_key_dtor
+dtor
+new_key
+___w64_mingwthr_remove_key_dtor
+prev_key
+cur_key
+__mingw_TLScallback
+hDllHandle
+reason
+reserved
+__mingwthr_cs
+__mingwthr_cs_init
+key_dtor_list
+ calloc
+!free
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/pseudo-reloc-list.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+__RUNTIME_PSEUDO_RELOC_LIST_END__
+char
+__RUNTIME_PSEUDO_RELOC_LIST__
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/crt/pesect.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+char
+size_t
+unsigned int
+short unsigned int
+long int
+long long int
+sizetype
+long unsigned int
+unsigned char
+WINBOOL
+BYTE
+WORD
+DWORD
+float
+PBYTE
+LPVOID
+signed char
+short int
+long long unsigned int
+LONG_PTR
+ULONG_PTR
+DWORD_PTR
+LONG
+	_IMAGE_DOS_HEADER
+e_magic
+e_cblp
+e_cp
+e_crlc
+e_cparhdr
+e_minalloc
+e_maxalloc
+e_ss
+e_sp
+e_csum
+e_ip
+e_cs
+e_lfarlc
+e_ovno
+e_res
+e_oemid
+e_oeminfo
+e_res2
+e_lfanew
+IMAGE_DOS_HEADER
+PIMAGE_DOS_HEADER
+	_IMAGE_FILE_HEADER
+Machine
+NumberOfSections
+PointerToSymbolTable
+NumberOfSymbols
+SizeOfOptionalHeader
+IMAGE_FILE_HEADER
+	_IMAGE_DATA_DIRECTORY
+Size
+IMAGE_DATA_DIRECTORY
+	_IMAGE_OPTIONAL_HEADER
+Magic
+MajorLinkerVersion
+MinorLinkerVersion
+SizeOfCode
+SizeOfInitializedData
+SizeOfUninitializedData
+AddressOfEntryPoint
+BaseOfCode
+BaseOfData
+ImageBase
+SectionAlignment
+FileAlignment
+MajorOperatingSystemVersion
+MinorOperatingSystemVersion
+MajorImageVersion
+MinorImageVersion
+MajorSubsystemVersion
+MinorSubsystemVersion
+Win32VersionValue
+SizeOfImage
+SizeOfHeaders
+CheckSum
+Subsystem
+DllCharacteristics
+SizeOfStackReserve
+SizeOfStackCommit
+SizeOfHeapReserve
+SizeOfHeapCommit
+LoaderFlags
+NumberOfRvaAndSizes
+DataDirectory
+IMAGE_OPTIONAL_HEADER32
+PIMAGE_OPTIONAL_HEADER32
+PIMAGE_OPTIONAL_HEADER
+	_IMAGE_NT_HEADERS
+Signature
+FileHeader
+OptionalHeader
+IMAGE_NT_HEADERS32
+PIMAGE_NT_HEADERS32
+IMAGE_NT_HEADERS
+PIMAGE_NT_HEADERS
+PhysicalAddress
+VirtualSize
+	_IMAGE_SECTION_HEADER
+Name
+Misc
+SizeOfRawData
+PointerToRawData
+PointerToRelocations
+PointerToLinenumbers
+NumberOfRelocations
+NumberOfLinenumbers
+PIMAGE_SECTION_HEADER
+OriginalFirstThunk
+	_IMAGE_IMPORT_DESCRIPTOR
+ForwarderChain
+Name
+FirstThunk
+IMAGE_IMPORT_DESCRIPTOR
+PIMAGE_IMPORT_DESCRIPTOR
+double
+long double
+_ValidateImageBase
+pDOSHeader
+pOptHeader
+_FindPESection
+_FindPESectionByName
+pName
+!.&@
+__mingw_GetSectionForAddress
+&rva
+!r&@
+__mingw_GetSectionCount
+_FindPESectionExec
+_GetPEImageBase
+!Z'@
+_IsNonwritableInCurrentImage
+pTarget
+&rvaTarget
+__mingw_enum_import_library_names
+&importDesc
+&importsStartRVA
+)_image_base__
+*strlen
+,strncmp
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/misc/mingw_matherr.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+_MINGW_INSTALL_DEBUG_MATHERR
+GNU C 4.8.2 -m32 -mtune=generic -march=pentiumpro -g -O2 -std=gnu99
+../../mingw-w64-crt/misc/invalid_parameter_handler.c
+/build/buildd/mingw-w64-3.1.0/build/i686-w64-mingw32-i686-w64-mingw32-crt
+char
+unsigned int
+uintptr_t
+wchar_t
+short unsigned int
+long int
+long long int
+sizetype
+long unsigned int
+unsigned char
+float
+signed char
+short int
+long long unsigned int
+LONG_PTR
+PVOID
+LONG
+PLONG
+double
+long double
+tagCOINITBASE
+COINITBASE_MULTITHREADED
+VARENUM
+VT_EMPTY
+VT_NULL
+VT_I2
+VT_I4
+VT_R4
+VT_R8
+VT_CY
+VT_DATE
+VT_BSTR
+VT_DISPATCH
+VT_ERROR
+VT_BOOL
+VT_VARIANT
+VT_UNKNOWN
+VT_DECIMAL
+VT_I1
+VT_UI1
+VT_UI2
+VT_UI4
+VT_I8
+VT_UI8
+VT_INT
+VT_UINT
+VT_VOID
+VT_HRESULT
+VT_PTR
+VT_SAFEARRAY
+VT_CARRAY
+VT_USERDEFINED
+VT_LPSTR
+VT_LPWSTR
+VT_RECORD
+VT_INT_PTR
+VT_UINT_PTR
+VT_FILETIME
+VT_BLOB
+VT_STREAM
+VT_STORAGE
+VT_STREAMED_OBJECT
+VT_STORED_OBJECT
+VT_BLOB_OBJECT
+VT_CF
+VT_CLSID
+VT_VERSIONED_STREAM
+VT_BSTR_BLOB
+VT_VECTOR
+VT_ARRAY
+VT_BYREF
+VT_RESERVED
+VT_ILLEGAL
+VT_ILLEGALMASKED
+VT_TYPEMASK
+_InterlockedExchange
+Target
+Value
+InterlockedExchange
+Target
+Value
+mingw_get_invalid_parameter_handler
+mingw_set_invalid_parameter_handler
+new_handler
+handler
+_imp___set_invalid_parameter_handler
+_imp___get_invalid_parameter_handler
+../../mingw-w64-crt/crt
+/build/buildd/mingw-w64-3.1.0/debian/tmp/usr/i686-w64-mingw32/include/psdk_inc
+/build/buildd/mingw-w64-3.1.0/debian/tmp/usr/i686-w64-mingw32/include
+../../mingw-w64-crt/include
+crtexe.c
+intrin-impl.h
+_mingw.h
+winnt.h
+minwindef.h
+basetsd.h
+errhandlingapi.h
+processthreadsapi.h
+stdlib.h
+combaseapi.h
+wtypes.h
+internal.h
+math.h
+tchar.h
+interlockedapi.h
+ctype.h
+string.h
+process.h
+$*2T28$*@4
+#-d?
+../../mingw-w64-crt/crt
+/build/buildd/mingw-w64-3.1.0/debian/tmp/usr/i686-w64-mingw32/include
+tlssup.c
+_mingw.h
+minwindef.h
+basetsd.h
+winnt.h
+tOoO/
+../../mingw-w64-crt/crt
+/build/buildd/mingw-w64-3.1.0/debian/tmp/usr/i686-w64-mingw32/include
+../../mingw-w64-crt/include
+charmax.c
+combaseapi.h
+wtypes.h
+internal.h
+../../mingw-w64-crt/crt
+/build/buildd/mingw-w64-3.1.0/debian/tmp/usr/i686-w64-mingw32/include
+mingw_helpers.c
+combaseapi.h
+wtypes.h
+../../mingw-w64-crt/crt
+xtxtmode.c
+../../mingw-w64-crt/crt
+/build/buildd/mingw-w64-3.1.0/debian/tmp/usr/i686-w64-mingw32/include
+../../mingw-w64-crt/include
+atonexit.c
+combaseapi.h
+wtypes.h
+stdlib.h
+internal.h
+sYZ;/
+../../mingw-w64-crt/crt
+_newmode.c
+../../mingw-w64-crt/crt
+wildcard.c
+/build/buildd/mingw-w64-3.1.0/debian/tmp/usr/i686-w64-mingw32/include
+../../mingw-w64-crt/crt
+../../mingw-w64-crt/include
+combaseapi.h
+wtypes.h
+natstart.c
+internal.h
+../../mingw-w64-crt/crt
+/build/buildd/mingw-w64-3.1.0/debian/tmp/usr/i686-w64-mingw32/include
+crt_handler.c
+winnt.h
+minwindef.h
+basetsd.h
+errhandlingapi.h
+combaseapi.h
+wtypes.h
+signal.h
+../../mingw-w64-crt/crt
+cinitexe.c
+../../mingw-w64-crt/crt
+dllargv.c
+../../mingw-w64-crt/crt
+/build/buildd/mingw-w64-3.1.0/debian/tmp/usr/i686-w64-mingw32/include
+../../mingw-w64-crt/include
+merr.c
+combaseapi.h
+wtypes.h
+internal.h
+math.h
+stdio.h
+hLKKFK
+KYy<
+../../mingw-w64-crt/crt
+/build/buildd/mingw-w64-3.1.0/debian/tmp/usr/i686-w64-mingw32/include
+pseudo-reloc.c
+vadefs.h
+_mingw.h
+minwindef.h
+basetsd.h
+winnt.h
+combaseapi.h
+wtypes.h
+stdio.h
+<built-in>
+stdlib.h
+zflD
+../../mingw-w64-crt/crt
+CRT_fp10.c
+../../mingw-w64-crt/crt
+/build/buildd/mingw-w64-3.1.0/debian/tmp/usr/i686-w64-mingw32/include
+gccmain.c
+combaseapi.h
+wtypes.h
+_mingw.h
+stdlib.h
+../../mingw-w64-crt/crt
+/build/buildd/mingw-w64-3.1.0/debian/tmp/usr/i686-w64-mingw32/include
+gs_support.c
+winnt.h
+minwindef.h
+basetsd.h
+stdlib.h
+==48AC
+	XYB
+../../mingw-w64-crt/crt
+tlsmcrt.c
+../../mingw-w64-crt/crt
+/build/buildd/mingw-w64-3.1.0/debian/tmp/usr/i686-w64-mingw32/include
+tlsthrd.c
+_mingw.h
+minwindef.h
+basetsd.h
+winnt.h
+minwinbase.h
+stdlib.h
+fN*M
+=-/1?q/hhYe:A
+<xT@
+../../mingw-w64-crt/crt
+pseudo-reloc-list.c
+../../mingw-w64-crt/crt
+/build/buildd/mingw-w64-3.1.0/debian/tmp/usr/i686-w64-mingw32/include
+pesect.c
+_mingw.h
+minwindef.h
+basetsd.h
+winnt.h
+string.h
+uqdR/lD
+x.JQ
+MKsY
+IjhL
+z<dF
+LKsY
+../../mingw-w64-crt/misc
+mingw_matherr.c
+../../mingw-w64-crt/misc
+/build/buildd/mingw-w64-3.1.0/debian/tmp/usr/i686-w64-mingw32/include/psdk_inc
+/build/buildd/mingw-w64-3.1.0/debian/tmp/usr/i686-w64-mingw32/include
+invalid_parameter_handler.c
+intrin-impl.h
+_mingw.h
+basetsd.h
+winnt.h
+combaseapi.h
+wtypes.h
+interlockedapi.h
+Destination
+Subsystem
+CheckSum
+SizeOfImage
+BaseOfCode
+SectionAlignment
+MinorSubsystemVersion
+DataDirectory
+SizeOfStackCommit
+ImageBase
+SizeOfCode
+MajorLinkerVersion
+Comperand
+SizeOfHeapReserve
+SizeOfInitializedData
+SizeOfStackReserve
+SizeOfHeapCommit
+MinorLinkerVersion
+__enative_startup_state
+SizeOfUninitializedData
+AddressOfEntryPoint
+MajorSubsystemVersion
+SizeOfHeaders
+MajorOperatingSystemVersion
+FileAlignment
+NumberOfRvaAndSizes
+ExceptionRecord
+DllCharacteristics
+MinorImageVersion
+MinorOperatingSystemVersion
+LoaderFlags
+Win32VersionValue
+MajorImageVersion
+hDllHandle
+lpreserved
+dwReason
+__enative_startup_state
+ExceptionRecord
+sSecInfo
+ExceptionRecord
+HighPart
+pSection
+TimeDateStamp
+pNTHeader
+Characteristics
+pImageBase
+VirtualAddress
+iSection
+.file
+crtexe.c
+_envp
+_argv
+_argc
+_argret
+_mainret
+.text
+.data
+.bss
+.file
+cygming-crtbegin.c
+.text
+.data
+.bss
+.rdata
+.jcr
+.file
+main.c
+_main
+_lire
+.text
+.data
+.bss
+.rdata
+.file
+tlssup.c
+___xd_a
+___xd_z
+.text
+.data
+.bss
+.CRT$XLD$
+.CRT$XLC 
+.rdata
+.CRT$XDZ0
+.CRT$XDA,
+.tls
+.CRT$XLZ(
+.CRT$XLA
+.tls$ZZZ
+.tls$AAA
+.file
+charmax.c
+.text
+.data
+.bss
+.CRT$XIC
+.file
+mingw_helpers.c
+.text
+.data
+.bss
+.file
+xtxtmode.c
+.text
+.data
+.bss
+.file
+atonexit.c
+_atexit
+.text
+.data
+.bss
+.file
+_newmode.c
+.text
+.data
+.bss
+.file
+wildcard.c
+.text
+.data
+.bss
+.file
+natstart.c
+.text
+.data
+.bss
+.file
+crt_handler.c
+.text
+.data
+.bss
+.file
+cinitexe.c
+.text
+.data
+.bss
+.CRT$XCZ
+.CRT$XCA
+.CRT$XIZ
+.CRT$XIA
+.file
+dllargv.c
+.text
+.data
+.bss
+.file
+merr.c
+.text
+.data
+.bss
+.rdata
+.file
+pseudo-reloc.c
+.text
+.data
+.bss
+.rdata
+.file
+CRT_fp10.c
+_fpreset
+.text
+.data
+.bss
+.file
+gccmain.c
+_p.59322
+___main
+.text
+.data
+.bss
+.file
+gs_support.c
+.text
+.data
+.bss
+.rdata
+.file
+tlsmcrt.c
+.text
+.data
+.bss
+.file
+tlsthrd.c
+.text
+.data
+.bss
+.file
+.text
+.data
+.bss
+.file
+pesect.c
+.text
+.data
+.bss
+.file
+mingw_matherr.c
+.text
+.data
+.bss
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6<
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5|
+.idata$4
+.idata$6
+.file
+_handler
+.text
+.data
+.bss
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$62
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6$
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6F
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6R
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6b
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6Z
+.text
+.data
+.bss
+.idata$7
+.idata$5x
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6l
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6 
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6v
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.file
+fake
+hname
+fthunk
+.text
+.data
+.bss
+.idata$2
+.idata$4
+.idata$5x
+.file
+fake
+.text
+.data
+.bss
+.idata$4
+.idata$5
+.idata$7
+.file
+fake
+hname
+fthunk
+.text
+.data
+.bss
+.idata$2
+.idata$4<
+.idata$5 
+.file
+fake
+.text
+.data
+.bss
+.idata$4
+.idata$5t
+.idata$7
+.file
+cygming-crtend.c
+.text
+.data
+.bss
+.jcr
+.text
+.data
+.bss
+.idata$7
+.idata$5
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7h
+.idata$5\
+.idata$4x
+.idata$6R
+.text
+.data
+.bss
+.idata$7d
+.idata$5X
+.idata$4t
+.idata$64
+.text
+.data
+.bss
+.idata$7L
+.idata$5@
+.idata$4\
+.idata$6
+.text
+.data
+.bss
+.idata$7D
+.idata$58
+.idata$4T
+.idata$6
+.text
+.data
+.bss
+.idata$7H
+.idata$5<
+.idata$4X
+.idata$6
+.text
+.data
+.bss
+.idata$7|
+.idata$5p
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7x
+.idata$5l
+.idata$4
+.idata$6
+.text
+.data
+.bss
+.idata$7@
+.idata$54
+.idata$4P
+.idata$6t
+.text
+.data
+.bss
+.idata$7P
+.idata$5D
+.idata$4`
+.idata$6
+.text
+.data
+.bss
+.idata$78
+.idata$5,
+.idata$4H
+.idata$6H
+.text
+.data
+.bss
+.idata$7<
+.idata$50
+.idata$4L
+.idata$6^
+.text
+.data
+.bss
+.idata$7T
+.idata$5H
+.idata$4d
+.idata$6
+.text
+.data
+.bss
+.idata$7`
+.idata$5T
+.idata$4p
+.idata$6
+.text
+.data
+.bss
+.idata$7t
+.idata$5h
+.idata$4
+.idata$6|
+.text
+.data
+.bss
+.idata$74
+.idata$5(
+.idata$4D
+.idata$64
+.text
+.data
+.bss
+.idata$7l
+.idata$5`
+.idata$4|
+.idata$6Z
+.text
+.data
+.bss
+.idata$70
+.idata$5$
+.idata$4@
+.idata$6
+.text
+.data
+.bss
+.idata$7p
+.idata$5d
+.idata$4
+.idata$6n
+.text
+.data
+.bss
+.idata$7\
+.idata$5P
+.idata$4l
+.idata$6
+.text
+.data
+.bss
+.idata$7,
+.idata$5 
+.idata$4<
+.idata$6
+.text
+.data
+.bss
+.idata$7X
+.idata$5L
+.idata$4h
+.idata$6
+.rdata
+__cexit
+_putchar(
+___xi_a
+_free
+_strcmp
+___xl_c
+___xl_z
+_puts
+__unlockP
+__dll__
+_fwrite
+___xc_a
+_memcpy
+___xl_a
+___xl_d
+__CRT_MT
+_fprintfh
+_calloc
+__fmode
+_getchar 
+__lock
+___xc_z
+__end__
+_strchr
+_signal
+_malloc
+_abort
+___xi_z
+_strncmp
+_fgets
+_strlen
+_exit
+_printf
+_Sleep@4
+.debug_aranges
+.debug_info
+.debug_abbrev
+.debug_line
+.debug_frame
+.debug_str
+.debug_loc
+.debug_ranges
+___mingw_invalidParameterHandler
+_pre_c_init
+_managedapp
+_pre_cpp_init
+_startinfo
+___tmainCRTStartup
+_has_cctor
+_WinMainCRTStartup
+_mainCRTStartup
+.CRT$XCAA
+.CRT$XIAA
+.debug_info
+.debug_abbrev
+.debug_loc
+.debug_aranges
+.debug_ranges
+.debug_line
+.debug_str
+.rdata$zzz
+.debug_frame
+___JCR_LIST__
+___gcc_register_frame
+___gcc_deregister_frame
+_viderBuffer
+___dyn_tls_dtor@12
+___dyn_tls_init@12
+___tlregdtor
+_my_lconv_init
+__decode_pointer
+__encode_pointer
+_mingw_onexit
+__gnu_exception_handler@4
+__setargv
+___mingw_raise_matherr
+_stUserMathErr
+___mingw_setusermatherr
+__matherr
+_CSWTCH.5
+___report_error
+___write_memory.part.0
+_maxSections
+_the_secs
+__pei386_runtime_relocator
+_was_init.60783
+__fpreset
+___do_global_dtors
+___do_global_ctors
+_initialized
+___security_init_cookie
+.data$__security_cookie
+.data$__security_cookie_complement
+___report_gsfailure
+_GS_ContextRecord
+_GS_ExceptionRecord
+_GS_ExceptionPointers
+___mingwthr_run_key_dtors.part.0
+___mingwthr_cs
+_key_dtor_list
+____w64_mingwthr_add_key_dtor
+___mingwthr_cs_init
+____w64_mingwthr_remove_key_dtor
+___mingw_TLScallback
+pseudo-reloc-list.c
+__ValidateImageBase.part.0
+__ValidateImageBase
+__FindPESection
+__FindPESectionByName
+___mingw_GetSectionForAddress
+___mingw_GetSectionCount
+__FindPESectionExec
+__GetPEImageBase
+__IsNonwritableInCurrentImage
+___mingw_enum_import_library_names
+_mingw_get_invalid_parameter_handler
+_mingw_set_invalid_parameter_handler
+invalid_parameter_handler.c
+___JCR_END__
+_register_frame_ctor
+.text.startup
+.ctors.65535
+.rdata_runtime_pseudo_reloc
+_VirtualProtect@16
+___RUNTIME_PSEUDO_RELOC_LIST__
+_QueryPerformanceCounter@4
+__data_start__
+___DTOR_LIST__
+__imp__VirtualProtect@16
+__imp___acmdln
+___setusermatherr
+_UnhandledExceptionFilter@4
+.weak.__Jv_RegisterClasses.___gcc_register_frame
+__imp___onexit
+__imp__GetLastError@0
+_SetUnhandledExceptionFilter@4
+__imp__VirtualQuery@12
+___tls_start__
+___native_startup_lock
+__imp__TlsGetValue@4
+__imp__InitializeCriticalSection@4
+_DeleteCriticalSection@4
+__rt_psrelocs_start
+__imp__abort
+__dll_characteristics__
+__size_of_stack_commit__
+__imp___fmode
+__size_of_stack_reserve__
+__major_subsystem_version__
+___crt_xl_start__
+__newmode
+___crt_xi_start__
+__imp___amsg_exit
+___crt_xi_end__
+_GetLastError@0
+__imp__QueryPerformanceCounter@4
+_VirtualQuery@12
+_mingw_initltsdrot_force
+__imp___iob
+__dowildcard
+_GetModuleHandleA@4
+__imp__strncmp
+__bss_start__
+___RUNTIME_PSEUDO_RELOC_LIST_END__
+__size_of_heap_commit__
+___onexitend
+__imp__GetCurrentProcess@0
+_mingw_pcinit
+__imp__GetProcAddress@8
+_GetProcAddress@8
+___crt_xp_start__
+__MINGW_INSTALL_DEBUG_MATHERR
+__imp__putchar
+___crt_xp_end__
+__imp__signal
+__imp__puts
+__minor_os_version__
+_GetTickCount@0
+__image_base__
+__imp__exit
+__section_alignment__
+__imp__GetStartupInfoA@4
+__IAT_end__
+__imp____lconv_init
+__RUNTIME_PSEUDO_RELOC_LIST__
+__tls_start
+___native_startup_state
+__data_end__
+___getmainargs
+__CTOR_LIST__
+___onexitbegin
+___set_app_type
+__charmax
+___mingw_winmain_lpCmdLine
+__bss_end__
+___security_cookie_complement
+___crt_xc_end__
+__tls_index
+__imp__GetTickCount@0
+__imp___set_invalid_parameter_handler
+___crt_xc_start__
+__imp__fgets
+__imp__strchr
+__lib32_libkernel32_a_iname
+___CTOR_LIST__
+__imp__GetCurrentProcessId@0
+_mingw_app_type
+__initterm
+__imp__TerminateProcess@8
+__rt_psrelocs_size
+_GetStartupInfoA@4
+_GetCurrentProcessId@0
+__imp____dllonexit
+__imp__memcpy
+__imp__strcmp
+__file_alignment__
+__imp___unlock
+__head_lib32_libmsvcrt_a
+__imp__LeaveCriticalSection@4
+__imp__malloc
+___mingw_pinit
+__major_os_version__
+__lib32_libmsvcrt_a_iname
+__IAT_start__
+__tls_end
+__imp____initenv
+__imp___get_invalid_parameter_handler
+__imp__GetModuleHandleA@4
+___dllonexit
+__imp___lock
+__DTOR_LIST__
+__imp__fprintf
+_TerminateProcess@8
+_EnterCriticalSection@4
+__imp___initterm
+_GetCurrentThreadId@0
+__size_of_heap_reserve__
+___crt_xt_start__
+___ImageBase
+__subsystem__
+__imp__strlen
+___mingw_oldexcpt_handler
+__imp__calloc
+___native_vcclrit_reason
+__Jv_RegisterClasses
+__imp__GetSystemTimeAsFileTime@4
+___lconv_init
+__amsg_exit
+__imp____getmainargs
+___mingw_winmain_nShowCmd
+___native_dllmain_reason
+___tls_end__
+_GetSystemTimeAsFileTime@4
+__imp__getchar
+_mingw_pcppinit
+_GetCurrentProcess@0
+_mingw_initltssuo_force
+__fu0___set_invalid_parameter_handler
+_InitializeCriticalSection@4
+__imp__free
+__imp__SetUnhandledExceptionFilter@4
+__major_image_version__
+__loader_flags__
+__imp__UnhandledExceptionFilter@4
+__imp__printf
+__head_lib32_libkernel32_a
+___chkstk_ms
+__rt_psrelocs_end
+__imp___cexit
+__minor_subsystem_version__
+__minor_image_version__
+__imp__Sleep@4
+__imp__vfprintf
+__imp____set_app_type
+___mingw_winmain_hInstance
+_mingw_initltsdyn_force
+__imp__GetCurrentThreadId@0
+_TlsGetValue@4
+__imp__DeleteCriticalSection@4
+___security_cookie
+_LeaveCriticalSection@4
+__RUNTIME_PSEUDO_RELOC_LIST_END__
+___dyn_tls_init_callback
+_mingw_initcharmax
+__imp____setusermatherr
+__tls_used
+___crt_xt_end__
+_vfprintf
+__imp__EnterCriticalSection@4
+__imp__fwrite
